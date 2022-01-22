@@ -1,0 +1,289 @@
+{
+  "part1": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the Jewish New Year?",
+      "correct_answer": "Rosh Hashanah",
+      "incorrect_answers": [
+        "Elul",
+        "New Year",
+        "Succoss"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+      "correct_answer": "Gorilla",
+      "incorrect_answers": [
+        "Tiger",
+        "Panda",
+        "Crocodile"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Red Vines is a brand of what type of candy?",
+      "correct_answer": "Licorice",
+      "incorrect_answers": [
+        "Lollipop",
+        "Chocolate",
+        "Bubblegum"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+      "correct_answer": "Qamar",
+      "incorrect_answers": [
+        "Najma",
+        "Kawkab",
+        "Shams"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What do the letters of the fast food chain KFC stand for?",
+      "correct_answer": "Kentucky Fried Chicken",
+      "incorrect_answers": [
+        "Kentucky Fresh Cheese",
+        "Kibbled Freaky Cow",
+        "Kiwi Food Cut"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was Mountain Dew&#039;s original slogan?",
+      "correct_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+      "incorrect_answers": [
+        "Give Me A Dew",
+        "Do The Dew",
+        "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+      "correct_answer": "Brasil",
+      "incorrect_answers": [
+        "Brazil",
+        "Brasilia",
+        "Bras&iacute;l"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+      "correct_answer": "Traffic Collision Avoidance System",
+      "incorrect_answers": [
+        "Traffic Communication Alert System",
+        "Traffic Configuration Alignment System",
+        "Traffic Call-sign Abbreviation System"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many furlongs are there in a mile?",
+      "correct_answer": "Eight",
+      "incorrect_answers": [
+        "Two",
+        "Four",
+        "Six"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+      "correct_answer": "The Shatter&#039;s",
+      "incorrect_answers": [
+        "Snake Pit",
+        "The Tomb of the Acient&#039;s",
+        "The Puppet Master&#039;s Theater"
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+      "correct_answer": "Binary",
+      "incorrect_answers": [
+        "JavaScript",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first commerically available computer processor?",
+      "correct_answer": "Intel 4004",
+      "incorrect_answers": [
+        "Intel 486SX",
+        "TMS 1000",
+        "AMD AM386"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name given to Android 4.3?",
+      "correct_answer": "Jelly Bean",
+      "incorrect_answers": [
+        "Lollipop",
+        "Nutella",
+        "Froyo"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+      "correct_answer": "?:",
+      "incorrect_answers": [
+        "??",
+        "if then",
+        "?"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+      "correct_answer": "FM-7",
+      "incorrect_answers": [
+        "PC-9801",
+        "Xmillennium ",
+        "MSX"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+      "correct_answer": "Quantum Teleportation",
+      "incorrect_answers": [
+        "Super Dense Coding",
+        "Quantum Entanglement",
+        "Quantum Programming"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first Android version specifically optimized for tablets?",
+      "correct_answer": "Honeycomb",
+      "incorrect_answers": [
+        "Eclair",
+        "Froyo",
+        "Marshmellow"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the first company to use the term &quot;Golden Master&quot;?",
+      "correct_answer": "Apple",
+      "incorrect_answers": [
+        "IBM",
+        "Microsoft",
+        "Google"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",
+      "correct_answer": "A&#039; + B&#039;",
+      "incorrect_answers": [
+        "A&#039;B + B&#039;A",
+        "A&#039;B&#039;",
+        "AB&#039; + AB"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+      "correct_answer": "ADPCM Sampler",
+      "incorrect_answers": [
+        "FM Synthesizer",
+        "Programmable Sound Generator (PSG)",
+        "PCM Sampler"
+      ]
+    }
+  ],
+  "cpart1": [
+    {
+      "question": "Irure anim ad ut sit et commodo veniam sint. In ipsum reprehenderit sint ad veniam exercitation excepteur culpa officia dolore amet ut eiusmod. Enim aliqua velit veniam sint laborum anim incididunt in. Elit consequat aliqua aliqua pariatur excepteur sit duis veniam qui enim aliqua. Ut mollit consectetur do commodo Lorem anim reprehenderit. Aute labore sunt fugiat officia sunt non est est. Velit duis Lorem veniam aliqua ea in commodo anim sunt culpa. Eiusmod cillum ea id excepteur est cillum id aliqua ipsum. Nulla irure amet proident est cillum consectetur aliqua ipsum quis deserunt dolor mollit in eiusmod.Laborum aute consectetur elit irure dolor do nostrud laboris do occaecat. Fugiat adipisicing mollit elit fugiat. Cupidatat proident veniam laboris aliqua exercitation laborum esse dolore exercitation incididunt ullamco. Voluptate elit sunt elit duis aliqua officia ea deserunt tempor. Excepteur adipisicing est consectetur pariatur. Reprehenderit id occaecat aliqua proident. Consequat minim voluptate aliquip consectetur pariatur ad irure mollit do dolor consequat reprehenderit qui.Sunt est incididunt officia ipsum laborum nulla. Ex commodo dolor do enim exercitation. Ut ut aliquip aliqua consequat culpa ex ullamco dolor laborum ea minim ad pariatur ea.Adipisicing duis ullamco ullamco cillum irure eiusmod cupidatat. Incididunt proident enim culpa aliqua ut ad eiusmod cupidatat. Mollit sint exercitation et magna tempor minim voluptate cillum amet anim nulla. Sunt enim voluptate consequat aliquip. Esse deserunt enim mollit sit consequat amet sint id sit proident et minim. Commodo reprehenderit ad anim deserunt nulla minim."
+    },
+    {
+      "question": "dzadad  sint. In ipsum reprehenderit sint ad veniam exercitation excepteur culpa officia dolore amet ut eiusmod. Enim aliqua velit veniam sint laborum anim incididunt in. Elit consequat aliqua aliqua pariatur excepteur sit duis veniam qui enim aliqua. Ut mollit consectetur do commodo Lorem anim reprehenderit. Aute labore sunt fugiat officia sunt non est est. Velit duis Lorem veniam aliqua ea in commodo anim sunt culpa. Eiusmod cillum ea id excepteur est cillum id aliqua ipsum. Nulla irure amet proident est cillum consectetur aliqua ipsum quis deserunt dolor mollit in eiusmod.Laborum aute consectetur elit irure dolor do nostrud laboris do occaecat. Fugiat adipisicing mollit elit fugiat. Cupidatat proident veniam laboris aliqua exercitation laborum esse dolore exercitation incididunt ullamco. Voluptate elit sunt elit duis aliqua officia ea deserunt tempor. Excepteur adipisicing est consectetur pariatur. Reprehenderit id occaecat aliqua proident. Consequat minim voluptate aliquip consectetur pariatur ad irure mollit do dolor consequat reprehenderit qui.Sunt est incididunt officia ipsum laborum nulla. Ex commodo dolor do enim exercitation. Ut ut aliquip aliqua consequat culpa ex ullamco dolor laborum ea minim ad pariatur ea.Adipisicing duis ullamco ullamco cillum irure eiusmod cupidatat. Incididunt proident enim culpa aliqua ut ad eiusmod cupidatat. Mollit sint exercitation et magna tempor minim voluptate cillum amet anim nulla. Sunt enim voluptate consequat aliquip. Esse deserunt enim mollit sit consequat amet sint id sit proident et minim. Commodo reprehenderit ad anim deserunt nulla minim."
+    },
+    {
+      "question": "3daz54d5za64 6 za  ut sit et commodo veniam sint. In ipsum reprehenderit sint ad veniam exercitation excepteur culpa officia dolore amet ut eiusmod. Enim aliqua velit veniam sint laborum anim incididunt in. Elit consequat aliqua aliqua pariatur excepteur sit duis veniam qui enim aliqua. Ut mollit consectetur do commodo Lorem anim reprehenderit. Aute labore sunt fugiat officia sunt non est est. Velit duis Lorem veniam aliqua ea in commodo anim sunt culpa. Eiusmod cillum ea id excepteur est cillum id aliqua ipsum. Nulla irure amet proident est cillum consectetur aliqua ipsum quis deserunt dolor mollit in eiusmod.Laborum aute consectetur elit irure dolor do nostrud laboris do occaecat. Fugiat adipisicing mollit elit fugiat. Cupidatat proident veniam laboris aliqua exercitation laborum esse dolore exercitation incididunt ullamco. Voluptate elit sunt elit duis aliqua officia ea deserunt tempor. Excepteur adipisicing est consectetur pariatur. Reprehenderit id occaecat aliqua proident. Consequat minim voluptate aliquip consectetur pariatur ad irure mollit do dolor consequat reprehenderit qui.Sunt est incididunt officia ipsum laborum nulla. Ex commodo dolor do enim exercitation. Ut ut aliquip aliqua consequat culpa ex ullamco dolor laborum ea minim ad pariatur ea.Adipisicing duis ullamco ullamco cillum irure eiusmod cupidatat. Incididunt proident enim culpa aliqua ut ad eiusmod cupidatat. Mollit sint exercitation et magna tempor minim voluptate cillum amet anim nulla. Sunt enim voluptate consequat aliquip. Esse deserunt enim mollit sit consequat amet sint id sit proident et minim. Commodo reprehenderit ad anim deserunt nulla minim."
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "userName": "deadazdza",
+      "userScore": 6
+    },
+    {
+      "userName": "hamzaessakhi021",
+      "userScore": 5,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "userName": "faouzi",
+      "userScore": 10
+    },
+    {
+      "userName": "derai2000moha",
+      "userScore": 4,
+      "id": 3
+    },
+    {
+      "userName": "derai2000moha",
+      "userScore": 3,
+      "id": 4
+    },
+    {
+      "userName": "derai2000moha",
+      "userScore": 2,
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+.navbar {
+  width: 100%;
+  height: 100px;
+  background-color: #1e1e1e;
+  display: flex;
+  flex-direction: row;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.navbar .leftSide {
+  flex: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 150px;
+}
+
+.navbar .leftSide img {
+  width: 180px;
+}
+
+.navbar .rightSide {
+  flex: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+}
+
+.navbar .rightSide button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+/* .navbar .rightSide svg {
+  font-size: 40px;
+} */
+
+.navbar #open {
+  padding-left: 0px;
+}
+.navbar #open img {
+  display: none;
+}
+
+.navbar #close img {
+  display: inherit;
+}
+
+.navbar #open .hiddenLinks {
+  display: absolute;
+  margin-left: 30px;
+}
+
+.navbar #close .hiddenLinks {
+  display: none;
+}
+
+.navbar #open a {
+  width: 70px;
+  margin: 5px;
+  margin-right: 0%;
+  position: static;
+}
+
+@media only screen and (max-width: 900px) {
+  .navbar {
+    width: 100%;
+    height: 100px;
+    background-color: #1e1e1e;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-inline-end: 10px;
+  }
+
+  .navbar .rightSide a {
+    width: 70px;
+  }
+
+  .navbar .rightSide {
+    margin-right: 0%;
+    margin-left: 0%;
+  }
+
+  .navbar .leftSide {
+    padding-left: 10px;
+    margin-right: 0;
+    position: absolute;
+  }
+
+  mobile .navbar .rightSide {
+    flex: 50%;
+    height: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar .rightSide a {
+    display: none;
+  }
+
+  .navbar .rightSide {
+    justify-content: flex-end;
+    padding-right: 50px;
+  }
+
+  .navbar .rightSide button {
+    display: inherit;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .navbar .rightSide button {
+    display: none;
+  }
+
+  .hiddenLinks {
+    display: none;
+  }
+}
