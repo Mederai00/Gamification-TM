@@ -1,5 +1,5 @@
 import React from "react";
-import { MenuList } from "../helpers/MenuList";
+// import { MenuList } from "../helpers/MenuList";
 // import MenuItem from "../C/MenuItem";
 import Navbar from "../C/Navbar";
 import { Link } from "react-router-dom";
@@ -48,8 +48,8 @@ function Home() {
           <h1 className="my-6"> Hi {window.$uName}, </h1>
           <div className="py-4 mx-3 lg:mx-10">
             <h5>
-              Welcome to Quizoid, an online gamified quiz application to test
-              your knowledge. <br></br> The rules are simple. Take the{" "}
+              Welcome to TMG, an online gamified quiz to test your knowledge.{" "}
+              <br></br> The rules are simple. Take the{" "}
               <Link to="/categories" className="text-decoration-none">
                 Quiz
               </Link>

@@ -90,7 +90,7 @@ export default function Login() {
               <Form.Control
                 style={formStyle}
                 className="formx-end"
-                className="input"
+                // className="input"
                 type={!showPassword ? "password" : "text"}
                 ref={passwordRef}
                 required

@@ -4,7 +4,7 @@ import "../styles/Footer.css";
 function Footer() {
   return (
     <div className="footerx">
-      <p>All Rights Reserved @Quizoid</p>
+      <p>All Rights Reserved @TMG</p>
     </div>
   );
 }

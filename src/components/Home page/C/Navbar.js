@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../../Assets/logo.svg";
+// import Logo from "../../Assets/tmg.png";
 import { Link } from "react-router-dom";
 import "../styles/Navbar.css";
 import { MenuIcon } from "@heroicons/react/outline";
@@ -36,7 +36,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="leftSide" id={openLinks ? "open" : "close"}>
-        <img src={Logo} alt="logo" />
+        <h1 className="mt-4">Gamification TM</h1>
 
         <div className="hiddenLinks">
           <Link to="/course" className=" mx-1  p-2 rounded-lg">
