@@ -197,7 +197,28 @@ function CourseCategories() {
           onClick={clickEvent}
         />
 
-        <Button id="6" text="History" bg={"#e8ce4f"} onClick={clickEvent} />
+<Button
+          id="5"
+          bg={"#e769bb"}
+          text="Course part 6"
+          onClick={clickEvent}
+        />
+
+<Button
+          id="5"
+          bg={"#e8ce4f"}
+          text="Course part 7"
+          onClick={clickEvent}
+        />
+
+<Button
+          id="5"
+          bg={"#98d099"}
+          text="Course part 8"
+          onClick={clickEvent}
+        />
+
+        {/* <Button id="6" text="History" bg={"#e8ce4f"} onClick={clickEvent} />
 
         <Button id="7" text="Sports" bg={"#e7e5e3"} onClick={clickEvent} />
 
@@ -253,7 +274,7 @@ function CourseCategories() {
           text="Cartoons and Anime"
           bg={"#e769bb"}
           onClick={clickEvent}
-        />
+        /> */}
       </div>
       {/* <div className="flex justify-center pt-8 text-2xl">
                                                                                 <button className="flex lg:hidden text-center border-color-bla" onClick={() => window.scrollTo(0, 0)}>
