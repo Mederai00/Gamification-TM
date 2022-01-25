@@ -159,18 +159,25 @@ function Categories() {
       >
         {/* category tiles */}
 
-        <Button id="1" text="part1" bg={"#9483bd"} onClick={clickEvent} />
+        <Button id="1" text="Quiz Part1" bg={"#9483bd"} onClick={clickEvent} />
+        <Button id="2" text="Quiz Part2" bg={"#e79995"} onClick={clickEvent} />
+        <Button id="3" text="Quiz Part3" bg={"#98d5ca"} onClick={clickEvent} />
+        <Button id="4" text="Quiz Part4" bg={"#98d099"} onClick={clickEvent} />
+        <Button id="5" text="Quiz Part5" bg={"#e79995"} onClick={clickEvent} />
+        <Button id="6" text="Quiz Part6" bg={"#9483bd"} onClick={clickEvent} />
+        <Button id="7" text="Quiz Part7" bg={"#e8ce4f"} onClick={clickEvent} />
+        <Button id="8" text="Quiz Part8" bg={"#e769bb"} onClick={clickEvent} />
 
-        <Button id="2" text="part2" bg={"#e79995"} onClick={clickEvent} />
+        {/* <Button id="2" text="part2" bg={"#e79995"} onClick={clickEvent} />
 
         <Button
           id="3"
           text="Computer Science"
           bg={"#98d5ca"}
           onClick={clickEvent}
-        />
+        /> */}
 
-        <Button id="4" text="Maths" bg={"#9acaed"} onClick={clickEvent} />
+        {/* <Button id="4" text="Maths" bg={"#9acaed"} onClick={clickEvent} />
 
         <Button
           id="5"
@@ -235,7 +242,7 @@ function Categories() {
           text="Cartoons and Anime"
           bg={"#e769bb"}
           onClick={clickEvent}
-        />
+        /> */}
       </div>
       {/* <div className="flex justify-center pt-8 text-2xl">
                                                                                 <button className="flex lg:hidden text-center border-color-bla" onClick={() => window.scrollTo(0, 0)}>
